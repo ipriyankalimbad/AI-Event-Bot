@@ -1,4 +1,4 @@
-AI Event Bot – Internship Project
+AI Event Bot - Internship Project
 Overview
 
 This repository contains the implementation of an AI-powered Event Assistant Bot developed during my internship as part of an internal innovation initiative focused on enhancing participant experience in technical workshops.
