@@ -1,0 +1,33 @@
+Event Details
+
+Event Name: Build with AI – A Workshop in Collaboration with Google for Developers
+
+Hosted by: ScaleOrange Technologies, in partnership with Google for Developers
+
+Speaker Lead: Aarav Singh
+
+Date: Sunday, May 18
+
+Time: 10:00 AM – 4:00 PM (GMT+5:30)
+
+Venue: ScaleOrange Technologies, Hyderabad, Telangana
+
+Status: You’re In
+
+Reminder: Please ensure your profile and email are up to date.
+
+How to Reach the Venue (ScaleOrange Technologies)
+
+Address:
+ScaleOrange Technologies
+Hitech City, Madhapur, Hyderabad, Telangana – 500081
+
+Agenda Highlights
+Time	Session Title	Speaker
+10:00 – 11:00 AM	Automation using Claude and MCP Server	Aarav Singh
+11:00 – 12:00 PM	Agentic AI	Meera Iyer
+12:00 – 1:00 PM	Industry Connect: AI in Healthcare	Kabir Khan
+1:00 – 2:00 PM	Lunch Break	—
+2:00 – 3:00 PM	Build an Event Bot using RAG	Driya Gupta
+3:00 – 3:30 PM	Multi-AI Agents: Industry Application	Dev Patel
+3:30 – 4:00 PM	Workshop: Building Multi-AI Agents	Aarav Singh
